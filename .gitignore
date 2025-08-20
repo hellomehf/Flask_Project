@@ -1,0 +1,6 @@
+.idea/*
+__pycache__/
+venv/
+Requirement.txt
+Team Member.txt
+Video Demo/
